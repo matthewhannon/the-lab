@@ -1,16 +1,16 @@
 {
   "version": 1,
   "kind": "player",
-  "revision": "3b05e6cf-clean",
-  "capturedAt": "2026-09-10T21:13:55.058Z",
+  "revision": "609638ad-clean",
+  "capturedAt": "2026-09-10T22:02:21.864Z",
   "moduleGraph": [
     {
-      "file": "assets/index-_EPWOcuX.js",
+      "file": "assets/index-Ca-VjU6I.js",
       "imports": [
-        "assets/startup-CxuXEMay.js"
+        "assets/startup-C_Owwhfk.js"
       ],
       "dynamicImports": [
-        "assets/playerMain-6lsYvS4q.js"
+        "assets/playerMain-BHAOMz4x.js"
       ],
       "modules": [
         "\u0000vite/modulepreload-polyfill.js",
@@ -75,11 +75,11 @@
       ]
     },
     {
-      "file": "assets/playerMain-6lsYvS4q.js",
+      "file": "assets/playerMain-BHAOMz4x.js",
       "imports": [
         "assets/physics-B3aj64zG.js",
-        "assets/three-BID7b9HD.js",
-        "assets/startup-CxuXEMay.js"
+        "assets/three-DTMrJ6a5.js",
+        "assets/startup-C_Owwhfk.js"
       ],
       "dynamicImports": [],
       "modules": [
@@ -113,6 +113,7 @@
         "src/animation/npcWorkClips.ts",
         "src/animation/presentation.ts",
         "src/animation/skeletal.ts",
+        "src/animation/skinnedBatch.ts",
         "src/animation/staticLimbBatch.ts",
         "src/animation/validateCharacter.ts",
         "src/animation/workMotion.ts",
@@ -192,9 +193,9 @@
       ]
     },
     {
-      "file": "assets/startup-CxuXEMay.js",
+      "file": "assets/startup-C_Owwhfk.js",
       "imports": [
-        "assets/three-BID7b9HD.js"
+        "assets/three-DTMrJ6a5.js"
       ],
       "dynamicImports": [],
       "modules": [
@@ -203,7 +204,7 @@
       ]
     },
     {
-      "file": "assets/three-BID7b9HD.js",
+      "file": "assets/three-DTMrJ6a5.js",
       "imports": [],
       "dynamicImports": [],
       "modules": [

@@ -126,9 +126,9 @@
       "sha256": "706136d94e5166bcf0718c9436e6980d2e27881265babcd231dd937c535afad1"
     },
     {
-      "path": "assets/index-_EPWOcuX.js",
+      "path": "assets/index-Ca-VjU6I.js",
       "bytes": 2378,
-      "sha256": "9861dce2f010e09d297b04042f16b8f07fd387c0fc284052480c479b6b66cb99"
+      "sha256": "a61121de394e627915eb4a71ea5b0b4979cf68c5d6f5d48f55ef0a40c514af8a"
     },
     {
       "path": "assets/lab/lab.glb",
@@ -151,9 +151,9 @@
       "sha256": "0c906f0977a6c877d92804a972b579cfbdafd77d38e288ebb57b71e04d8ccfbd"
     },
     {
-      "path": "assets/playerMain-6lsYvS4q.js",
-      "bytes": 402502,
-      "sha256": "8d1284e0610d61887643165abcede777671f9fda32680cf046421e37d9c17567"
+      "path": "assets/playerMain-BHAOMz4x.js",
+      "bytes": 406709,
+      "sha256": "13c66e92bc889149f9affcffb2b24499fd0ad5ac444fe98db3feccc7fe424fed"
     },
     {
       "path": "assets/playerMain-C6yo_QF2.css",
@@ -166,19 +166,19 @@
       "sha256": "4d621b86d803ce9922ac44c1829902f1b60fd02d3c8b364e05374938af15ead4"
     },
     {
-      "path": "assets/startup-CxuXEMay.js",
+      "path": "assets/startup-C_Owwhfk.js",
       "bytes": 3962,
-      "sha256": "dc75f63b87d044048bada499719998f6aded40b06ec1fc805eb29fc98f445fed"
+      "sha256": "7f1688053c0ce14cfa91691698bc2407ba0525db3534a76d522977d5ea5ba7fe"
     },
     {
-      "path": "assets/three-BID7b9HD.js",
-      "bytes": 883222,
-      "sha256": "0604fa34778aaf570c2088e407c72cf415775b9eeaf87b0e99063c93152f0cdc"
+      "path": "assets/three-DTMrJ6a5.js",
+      "bytes": 883231,
+      "sha256": "ac4f0cf62f3e990d2037f65cc453f13fee4dadbbadbebdf26753837dd7a3e897"
     },
     {
       "path": "build-identity.json",
-      "bytes": 9436,
-      "sha256": "c66d837eb56ee9046610667bcdfbb2f2284490de89a66dc12ffa497d4506b111"
+      "bytes": 9477,
+      "sha256": "f7c6416bf567584de2297d7e485d6878bd8b3d113abe53a13029290084f0e347"
     },
     {
       "path": "credits/index.html",
@@ -218,7 +218,7 @@
     {
       "path": "index.html",
       "bytes": 660,
-      "sha256": "88171a6ed30a4b88a2766da890eb20309922facb50a2834e4fa590e120486202"
+      "sha256": "38b1589a08084bf00f133340cbefc8168d03789207a2f5eb90448f36c808bfb9"
     }
   ]
 }
