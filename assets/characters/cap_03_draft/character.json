@@ -1,0 +1,187 @@
+{
+  "id": "cap_03_draft",
+  "height": 1.7272000312805176,
+  "front": "+Z",
+  "up": "Y",
+  "source": {
+    "glb": "output/character-shape-080/candidate/cap_03_draft/cap_03_draft.glb",
+    "geometry_sha256": "eb6024159c93949cabfefcf1fc67fc709cac1dbee1f6a8c0aa623be150182090",
+    "style_version": "1.0.0",
+    "recipe_sha256": "f896fc5c7ea03a96cf4a00eb69e340191a3caf0b3776bdf01798ec402bf36b75",
+    "style_sha256": "64211812d6952e924135735b15a2779d03c370bf83d39204f5031b39656d7ba7",
+    "glb_sha256": "31889529f994f252f867705a6248f7c37b5e3b457a2e5968924bfa2bcbb3a2fb",
+    "design_revision": "character-shape-rounded-shoes-080-v1"
+  },
+  "anchors": {
+    "ankle_R": [
+      -0.1430106853635062,
+      0.1307394459097344,
+      -0.009226495829903626
+    ],
+    "wrist_R": [
+      -0.45209829566527765,
+      0.8313072742743167,
+      0.023066239574759066
+    ],
+    "shoulder_R": [
+      -0.14762392997880597,
+      1.2455769590346697,
+      -0.006458547280286516
+    ],
+    "elbow_R": [
+      -0.38474487610698116,
+      0.9733953100548325,
+      0.008303846246913263
+    ],
+    "ankle_L": [
+      0.1430106853635062,
+      0.1307394459097344,
+      -0.009226495829903626
+    ],
+    "wrist_L": [
+      0.45209829566527765,
+      0.8313072742743167,
+      0.023066239574759066
+    ],
+    "shoulder_L": [
+      0.14762392997880597,
+      1.2455769590346697,
+      -0.006458547280286516
+    ],
+    "elbow_L": [
+      0.38474487610698116,
+      0.9733953100548325,
+      0.008303846246913263
+    ],
+    "neck": [
+      0.0,
+      1.383974374485544,
+      -0.009226495829903626
+    ],
+    "pelvis": [
+      0.0,
+      0.7196666747324828,
+      -0.009226495829903626
+    ],
+    "head": [
+      0.0,
+      1.522371811934098,
+      -0.009226495829903626
+    ]
+  },
+  "parts": {
+    "separator": " | ",
+    "defaultSides": {
+      "Watch": "L"
+    },
+    "sides": [
+      "L",
+      "R"
+    ],
+    "head": [
+      "Head",
+      "Face",
+      "Eye",
+      "Ear",
+      "Mouth",
+      "Beard",
+      "Hair",
+      "Glasses",
+      "Neck",
+      "Cap",
+      "Hat"
+    ],
+    "arm": [
+      "Arm",
+      "Hand",
+      "Watch",
+      "Tattoo"
+    ],
+    "leg": [
+      "Shoe"
+    ],
+    "armWords": [
+      "sleeve"
+    ],
+    "legWords": [
+      "leg",
+      "cuff"
+    ],
+    "legCategories": [
+      "Pants",
+      "Jeans"
+    ]
+  },
+  "rig": {
+    "version": 2,
+    "skeleton": "lab-humanoid-v1-prototype",
+    "rootBone": "root",
+    "clips": {
+      "idle": {
+        "clip": "idle",
+        "loop": true,
+        "duration": 4.0
+      },
+      "walk": {
+        "clip": "walk",
+        "loop": true,
+        "duration": 1.4,
+        "nominalSpeed": 1.2
+      },
+      "walkOriginal": {
+        "clip": "walkOriginal",
+        "loop": true,
+        "duration": 1.4,
+        "nominalSpeed": 1.2
+      },
+      "reachRight": {
+        "clip": "reachRight",
+        "loop": false,
+        "duration": 3.0
+      },
+      "reachBody": {
+        "clip": "reachBody",
+        "loop": false,
+        "duration": 4.0
+      },
+      "sitDown": {
+        "clip": "sitDown",
+        "loop": false,
+        "duration": 0.6
+      },
+      "sitIdle": {
+        "clip": "sitIdle",
+        "loop": true,
+        "duration": 2.0
+      },
+      "standUp": {
+        "clip": "standUp",
+        "loop": false,
+        "duration": 1.2
+      }
+    },
+    "seating": {
+      "referenceSeat": {
+        "position": [
+          0,
+          0.4,
+          -0.41
+        ],
+        "yaw": 0
+      },
+      "standingRoot": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "yaw": 0
+      },
+      "seatedEye": [
+        4e-08,
+        1.27997351,
+        -0.12952231
+      ]
+    }
+  }
+}

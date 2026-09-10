@@ -1,0 +1,224 @@
+{
+  "version": 1,
+  "kind": "player",
+  "excludes": [
+    "release-inventory.json"
+  ],
+  "files": [
+    {
+      "path": "assets/characters/bearded_01_draft/bearded_01_draft.glb",
+      "bytes": 2382048,
+      "sha256": "2a1829ab04096491d9a1f8a68e4113af34969a50a52df5b626d3b614afa9c14f"
+    },
+    {
+      "path": "assets/characters/bearded_01_draft/character.json",
+      "bytes": 4280,
+      "sha256": "2c90488f78611bf0eee638e9b1bf84d8b2c8750f48f51bb5620ea05cb57fec2e"
+    },
+    {
+      "path": "assets/characters/cap_03_draft/cap_03_draft.glb",
+      "bytes": 1707316,
+      "sha256": "31889529f994f252f867705a6248f7c37b5e3b457a2e5968924bfa2bcbb3a2fb"
+    },
+    {
+      "path": "assets/characters/cap_03_draft/character.json",
+      "bytes": 3681,
+      "sha256": "f2a7ab4a596c54127d2b21f4e0084e8ef39460e41581653b4704021f31a7b0f5"
+    },
+    {
+      "path": "assets/characters/chinos_07_draft/character.json",
+      "bytes": 3695,
+      "sha256": "99e524985c446fd7f70b99e9dfde30f02c33920cc5bd3a0071cb4b65b933441b"
+    },
+    {
+      "path": "assets/characters/chinos_07_draft/chinos_07_draft.glb",
+      "bytes": 2307496,
+      "sha256": "ecd78da709a21218e00eff42dbf9d39424c0f712e81704518e108b0a928e49eb"
+    },
+    {
+      "path": "assets/characters/headset_06_draft/character.json",
+      "bytes": 3693,
+      "sha256": "75c4f76b0a2b7451cf003107e23a8f808a85e0528562494a87cb6deefb13d442"
+    },
+    {
+      "path": "assets/characters/headset_06_draft/headset_06_draft.glb",
+      "bytes": 1585984,
+      "sha256": "aee8ad7c94d5534f8ec616503a7066fe7bfb8f8851fd000e9582318d3508e343"
+    },
+    {
+      "path": "assets/characters/longhair_05_draft/character.json",
+      "bytes": 3690,
+      "sha256": "f3f91ec0b2a1ffb98d0bca155d71139696ce7db19f5c21f069153f0615b9ce04"
+    },
+    {
+      "path": "assets/characters/longhair_05_draft/longhair_05_draft.glb",
+      "bytes": 1518952,
+      "sha256": "0be720f1b79d566272da382a624e9bfe94112f29ec50cdb98349ec1105409ae0"
+    },
+    {
+      "path": "assets/characters/mature_11_draft/character.json",
+      "bytes": 4433,
+      "sha256": "4a9e591617c86af479afb7e74c5a178ccc44e399207d001845c3c5ae3166e55a"
+    },
+    {
+      "path": "assets/characters/mature_11_draft/mature_11_draft.glb",
+      "bytes": 1444796,
+      "sha256": "54124f94e61848812a6ad571e67df48fabd49b2b341ba528b0bf3e59d440e413"
+    },
+    {
+      "path": "assets/characters/mullet_08_draft/character.json",
+      "bytes": 3692,
+      "sha256": "ab91e2d63accac17af89c618a8b2c552e91c93f1ced69c363698666d0be070d6"
+    },
+    {
+      "path": "assets/characters/mullet_08_draft/mullet_08_draft.glb",
+      "bytes": 1786652,
+      "sha256": "fb6d09c19050f3bd8b700c5e5d179f5159e33db0dd7f6d3ad431473e69673456"
+    },
+    {
+      "path": "assets/characters/player_12_draft/character.json",
+      "bytes": 3653,
+      "sha256": "30cac70e8c9c62d9580a29146017acfa1681b3372df0e1d5c3498f2deede7c35"
+    },
+    {
+      "path": "assets/characters/player_12_draft/player_12_draft.glb",
+      "bytes": 1786344,
+      "sha256": "59d06ab79ec3992b3e50618c6a57087b93da531c4976abd3dec7bfd84bdfc866"
+    },
+    {
+      "path": "assets/characters/polo_02_draft/character.json",
+      "bytes": 3684,
+      "sha256": "d2f23f820e802ffa19716046aea622fadf9e5e0daabdd5d3a0800d9913d28cd8"
+    },
+    {
+      "path": "assets/characters/polo_02_draft/polo_02_draft.glb",
+      "bytes": 2483900,
+      "sha256": "070046bcec8d523512d69e9f97d612a45c3bbeb8c5cadd15d3d0c0324216dc66"
+    },
+    {
+      "path": "assets/characters/redbeard_10_draft/character.json",
+      "bytes": 4432,
+      "sha256": "221cac6d973afd83bfd813b3eb93bcc5636abe054f4c4f2ba3c40d166bd85b10"
+    },
+    {
+      "path": "assets/characters/redbeard_10_draft/redbeard_10_draft.glb",
+      "bytes": 2224028,
+      "sha256": "8b750abc2e5785bd13d3f1716a59ddf327442034b6e345cb5500d4a2b672c174"
+    },
+    {
+      "path": "assets/characters/silhouette_09_cinematic/character.json",
+      "bytes": 2471,
+      "sha256": "938b8098f367b19ea086ddf4835b6639bc5bb8ec257af473b80ed481b5789697"
+    },
+    {
+      "path": "assets/characters/silhouette_09_cinematic/silhouette_09_cinematic.glb",
+      "bytes": 742280,
+      "sha256": "b11af3927ba1edcebcf3be32981e25673a7b3c36ae3830017e2a6d93df17bb7e"
+    },
+    {
+      "path": "assets/characters/tall_04_draft/character.json",
+      "bytes": 3675,
+      "sha256": "f3632c5aa1b9a056baa6f3c5319626bae20c7119f2a8c066aabd14a066eeb4cb"
+    },
+    {
+      "path": "assets/characters/tall_04_draft/tall_04_draft.glb",
+      "bytes": 1463776,
+      "sha256": "706136d94e5166bcf0718c9436e6980d2e27881265babcd231dd937c535afad1"
+    },
+    {
+      "path": "assets/index-b5AAn03V.js",
+      "bytes": 2378,
+      "sha256": "9ac348261ac3a385ea2fa78bd5116e3846cc85ea4fa6edb7244169585aab8c1b"
+    },
+    {
+      "path": "assets/lab/lab.glb",
+      "bytes": 14354448,
+      "sha256": "3f583187421d37cd760e08d0114f30fe017f583cddbe858dfa05ef21c4bf3d4f"
+    },
+    {
+      "path": "assets/lab/lab.manifest.json",
+      "bytes": 262634,
+      "sha256": "be97356bdf440afe168c863886ddbb4f7e9845551f44b2d48c1465439e788883"
+    },
+    {
+      "path": "assets/lab/lighting.json",
+      "bytes": 7439,
+      "sha256": "73e08bf3d0aa7fca49711ff386c78324c8e005196a934e98a29a8ae699a75ced"
+    },
+    {
+      "path": "assets/physics-B3aj64zG.js",
+      "bytes": 208979,
+      "sha256": "0c906f0977a6c877d92804a972b579cfbdafd77d38e288ebb57b71e04d8ccfbd"
+    },
+    {
+      "path": "assets/playerMain-C6yo_QF2.css",
+      "bytes": 9330,
+      "sha256": "8502ceac2c1a11fa0cf9c46232bbb7d2d2fd8e8043e69f9318d7fc6e5e00fbc1"
+    },
+    {
+      "path": "assets/playerMain-bHiCqv0Y.js",
+      "bytes": 402502,
+      "sha256": "0298b490d55d3d2bd47a64088851ea598700d45fac51baccb88d3992b40f8241"
+    },
+    {
+      "path": "assets/rapier_wasm3d_bg-CCK6hj8V.wasm",
+      "bytes": 2021200,
+      "sha256": "4d621b86d803ce9922ac44c1829902f1b60fd02d3c8b364e05374938af15ead4"
+    },
+    {
+      "path": "assets/startup-CxuXEMay.js",
+      "bytes": 3962,
+      "sha256": "dc75f63b87d044048bada499719998f6aded40b06ec1fc805eb29fc98f445fed"
+    },
+    {
+      "path": "assets/three-BID7b9HD.js",
+      "bytes": 883222,
+      "sha256": "0604fa34778aaf570c2088e407c72cf415775b9eeaf87b0e99063c93152f0cdc"
+    },
+    {
+      "path": "build-identity.json",
+      "bytes": 9436,
+      "sha256": "0a5d5c46ac8633ee83424edea97821d61fd79e19bc139ce836c5f3ea4a63204d"
+    },
+    {
+      "path": "credits/index.html",
+      "bytes": 3646,
+      "sha256": "8d883d69e77b6838e70fcda140b5f9c19fd06836020208ca2be3d456006072d7"
+    },
+    {
+      "path": "credits/licenses/rapier3d-0.20.0-LICENSE.txt",
+      "bytes": 11343,
+      "sha256": "4c05555705e3efde601fb1252ae48f1d63992af8a8fb8947745b7fa834e8f519"
+    },
+    {
+      "path": "credits/licenses/rolldown-1.2.7-LICENSE.txt",
+      "bytes": 1302,
+      "sha256": "23ecfff35a5a2e80d92142f75228912c3b1abc4b5a8337a821ff4397e2f9f734"
+    },
+    {
+      "path": "credits/licenses/rolldown-1.2.7-THIRD-PARTY-LICENSE.txt",
+      "bytes": 2209,
+      "sha256": "a877291d800ed43692f3f9ae09d8e01cc6f7293ad39d43896059c188ffbb8b7c"
+    },
+    {
+      "path": "credits/licenses/three-0.185.1-LICENSE.txt",
+      "bytes": 1081,
+      "sha256": "8b378ebe60e2fe500158cb0ac71cb5e8b7d92953c2abcc63a0eb90499653b5bc"
+    },
+    {
+      "path": "credits/licenses/vite-8.2.2-LICENSE.txt",
+      "bytes": 112425,
+      "sha256": "387dd7baa307083401a27c58c362c30832f5ba1dba84f10cc22c33401523f45c"
+    },
+    {
+      "path": "credits/licenses/zod-4.5.4-LICENSE.txt",
+      "bytes": 1072,
+      "sha256": "3f1189b28e3866e0d979968d466b78f813f76827cfdca1fbb124cc0a5c8841f8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 660,
+      "sha256": "8c5f237c1c3fe24de1301f040d8bfb8aecc85cd26403bf160314ca59648c2f10"
+    }
+  ]
+}

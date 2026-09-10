@@ -1,0 +1,235 @@
+{
+  "id": "bearded_01_draft",
+  "height": 1.6764,
+  "front": "+Z",
+  "up": "Y",
+  "source": {
+    "glb": "output/character-shape-080/candidate/bearded_01_draft/bearded_01_draft.glb",
+    "geometry_sha256": "8d678cf3acf2c96a22dd1f72e25761adc157767c694956a659079ad0b000e81c",
+    "style_version": "1.0.0",
+    "design_revision": "character-shape-rounded-shoes-080-v1",
+    "glb_sha256": "2a1829ab04096491d9a1f8a68e4113af34969a50a52df5b626d3b614afa9c14f"
+  },
+  "anchors": {
+    "ankle_R": [
+      -0.1654,
+      0.143,
+      -0.0092
+    ],
+    "wrist_R": [
+      -0.5268,
+      0.8576,
+      0.0213
+    ],
+    "shoulder_R": [
+      -0.171,
+      1.2384,
+      -0.0083
+    ],
+    "elbow_R": [
+      -0.475,
+      0.9482,
+      0.0129
+    ],
+    "ankle_L": [
+      0.1654,
+      0.143,
+      -0.0092
+    ],
+    "wrist_L": [
+      0.5268,
+      0.8576,
+      0.0213
+    ],
+    "shoulder_L": [
+      0.171,
+      1.2384,
+      -0.0083
+    ],
+    "elbow_L": [
+      0.475,
+      0.9482,
+      0.0129
+    ],
+    "neck": [
+      0,
+      1.3862,
+      -0.0092
+    ],
+    "pelvis": [
+      0,
+      0.7208,
+      -0.0092
+    ],
+    "head": [
+      0,
+      1.5248,
+      -0.0092
+    ]
+  },
+  "parts": {
+    "separator": " | ",
+    "defaultSides": {
+      "Watch": "L"
+    },
+    "sides": [
+      "L",
+      "R"
+    ],
+    "head": [
+      "Head",
+      "Face",
+      "Eye",
+      "Ear",
+      "Mouth",
+      "Beard",
+      "Hair",
+      "Glasses",
+      "Neck",
+      "Cap",
+      "Hat"
+    ],
+    "arm": [
+      "Arm",
+      "Hand",
+      "Watch",
+      "Tattoo"
+    ],
+    "leg": [
+      "Shoe"
+    ],
+    "armWords": [
+      "sleeve"
+    ],
+    "legWords": [
+      "leg",
+      "cuff"
+    ],
+    "legCategories": [
+      "Pants",
+      "Jeans"
+    ]
+  },
+  "rig": {
+    "version": 2,
+    "skeleton": "lab-humanoid-v1-prototype",
+    "rootBone": "root",
+    "clips": {
+      "idle": {
+        "clip": "idle",
+        "loop": true,
+        "duration": 4
+      },
+      "walk": {
+        "clip": "walk",
+        "loop": true,
+        "duration": 1.4,
+        "nominalSpeed": 1.2
+      },
+      "walkOriginal": {
+        "clip": "walkOriginal",
+        "loop": true,
+        "duration": 1.4,
+        "nominalSpeed": 1.2
+      },
+      "reachRight": {
+        "clip": "reachRight",
+        "loop": false,
+        "duration": 3
+      },
+      "reachBody": {
+        "clip": "reachBody",
+        "loop": false,
+        "duration": 4
+      },
+      "sitDown": {
+        "clip": "sitDown",
+        "loop": false,
+        "duration": 0.6
+      },
+      "sitIdle": {
+        "clip": "sitIdle",
+        "loop": true,
+        "duration": 2
+      },
+      "standUp": {
+        "clip": "standUp",
+        "loop": false,
+        "duration": 1.2
+      },
+      "workStandingEnter": {
+        "clip": "workStandingEnter",
+        "loop": false,
+        "duration": 1.2
+      },
+      "workStandingExit": {
+        "clip": "workStandingExit",
+        "loop": false,
+        "duration": 1.2
+      },
+      "workStandingTyping": {
+        "clip": "workStandingTyping",
+        "loop": true,
+        "duration": 1.6
+      },
+      "workStandingMouse": {
+        "clip": "workStandingMouse",
+        "loop": true,
+        "duration": 2
+      },
+      "workStandingRead": {
+        "clip": "workStandingRead",
+        "loop": true,
+        "duration": 2
+      },
+      "workSeatedEnter": {
+        "clip": "workSeatedEnter",
+        "loop": false,
+        "duration": 1.2
+      },
+      "workSeatedExit": {
+        "clip": "workSeatedExit",
+        "loop": false,
+        "duration": 1.2
+      },
+      "workSeatedTyping": {
+        "clip": "workSeatedTyping",
+        "loop": true,
+        "duration": 1.6
+      },
+      "workSeatedMouse": {
+        "clip": "workSeatedMouse",
+        "loop": true,
+        "duration": 2
+      },
+      "workSeatedRead": {
+        "clip": "workSeatedRead",
+        "loop": true,
+        "duration": 2
+      }
+    },
+    "seating": {
+      "referenceSeat": {
+        "position": [
+          0,
+          0.4,
+          -0.41
+        ],
+        "yaw": 0
+      },
+      "standingRoot": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "yaw": 0
+      },
+      "seatedEye": [
+        4e-08,
+        1.30072057,
+        -0.24466002
+      ]
+    }
+  }
+}

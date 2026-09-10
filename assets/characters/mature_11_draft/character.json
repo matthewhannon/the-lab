@@ -1,0 +1,204 @@
+{
+  "id": "mature_11_draft",
+  "height": 1.7525999546051025,
+  "front": "+Z",
+  "up": "Y",
+  "anchors": {
+    "ankle_R": [
+      -0.1385273369639639,
+      0.12955794104543386,
+      -0.009965995465033375
+    ],
+    "wrist_R": [
+      -0.40362281633385166,
+      0.8796485897211708,
+      0.026908187755590108
+    ],
+    "shoulder_R": [
+      -0.13254774099178704,
+      1.3236834671027828,
+      -0.005979597330996741
+    ],
+    "elbow_R": [
+      -0.34183364445064474,
+      1.0510138817424195,
+      0.006976196825523362
+    ],
+    "ankle_L": [
+      0.1385273369639639,
+      0.12955794104543386,
+      -0.009965995465033375
+    ],
+    "wrist_L": [
+      0.40362281633385166,
+      0.8796485897211708,
+      0.026908187755590108
+    ],
+    "shoulder_L": [
+      0.13254774099178704,
+      1.3236834671027828,
+      -0.005979597330996741
+    ],
+    "elbow_L": [
+      0.34183364445064474,
+      1.0510138817424195,
+      0.006976196825523362
+    ],
+    "neck": [
+      0.0,
+      1.4610149351738926,
+      -0.009965995465033375
+    ],
+    "pelvis": [
+      0.0,
+      0.7773476462726032,
+      -0.009965995465033375
+    ],
+    "head": [
+      0.0,
+      1.60059866765715,
+      -0.009965995465033375
+    ]
+  },
+  "parts": {
+    "separator": "|",
+    "sides": [
+      "L",
+      "R"
+    ],
+    "head": [],
+    "arm": [],
+    "leg": [],
+    "armWords": [],
+    "legWords": [],
+    "legCategories": []
+  },
+  "source": {
+    "glb": "characters/mature_11_draft/mature_11_draft.glb",
+    "geometry_sha256": "012847d760ff3299a6c76669f03d6ddaf83e4c5d0aacea60e7cb9d63395f214e",
+    "style_version": "1.0.0",
+    "recipe_sha256": "6928eaa94102684653a14079a769fd34d477d7dda92836c8b8959db613b21654"
+  },
+  "rig": {
+    "version": 2,
+    "skeleton": "lab-humanoid-v1-prototype",
+    "rootBone": "root",
+    "clips": {
+      "idle": {
+        "clip": "idle",
+        "loop": true,
+        "duration": 4
+      },
+      "walk": {
+        "clip": "walk",
+        "loop": true,
+        "duration": 1.4,
+        "nominalSpeed": 1.2
+      },
+      "walkOriginal": {
+        "clip": "walkOriginal",
+        "loop": true,
+        "duration": 1.4,
+        "nominalSpeed": 1.2
+      },
+      "reachRight": {
+        "clip": "reachRight",
+        "loop": false,
+        "duration": 3
+      },
+      "reachBody": {
+        "clip": "reachBody",
+        "loop": false,
+        "duration": 4
+      },
+      "sitDown": {
+        "clip": "sitDown",
+        "loop": false,
+        "duration": 0.6
+      },
+      "sitIdle": {
+        "clip": "sitIdle",
+        "loop": true,
+        "duration": 2
+      },
+      "standUp": {
+        "clip": "standUp",
+        "loop": false,
+        "duration": 1.2
+      },
+      "workStandingEnter": {
+        "clip": "workStandingEnter",
+        "loop": false,
+        "duration": 1.2
+      },
+      "workStandingExit": {
+        "clip": "workStandingExit",
+        "loop": false,
+        "duration": 1.2
+      },
+      "workStandingTyping": {
+        "clip": "workStandingTyping",
+        "loop": true,
+        "duration": 1.6
+      },
+      "workStandingMouse": {
+        "clip": "workStandingMouse",
+        "loop": true,
+        "duration": 2
+      },
+      "workStandingRead": {
+        "clip": "workStandingRead",
+        "loop": true,
+        "duration": 2
+      },
+      "workSeatedEnter": {
+        "clip": "workSeatedEnter",
+        "loop": false,
+        "duration": 1.2
+      },
+      "workSeatedExit": {
+        "clip": "workSeatedExit",
+        "loop": false,
+        "duration": 1.2
+      },
+      "workSeatedTyping": {
+        "clip": "workSeatedTyping",
+        "loop": true,
+        "duration": 1.6
+      },
+      "workSeatedMouse": {
+        "clip": "workSeatedMouse",
+        "loop": true,
+        "duration": 2
+      },
+      "workSeatedRead": {
+        "clip": "workSeatedRead",
+        "loop": true,
+        "duration": 2
+      }
+    },
+    "seating": {
+      "referenceSeat": {
+        "position": [
+          0,
+          0.4,
+          -0.41
+        ],
+        "yaw": 0
+      },
+      "standingRoot": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "yaw": 0
+      },
+      "seatedEye": [
+        4e-08,
+        1.30072057,
+        -0.24466002
+      ]
+    }
+  }
+}

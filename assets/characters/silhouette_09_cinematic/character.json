@@ -1,0 +1,135 @@
+{
+  "id": "silhouette_09_cinematic",
+  "height": 1.7134,
+  "front": "+Z",
+  "up": "Y",
+  "source": {
+    "glb": "characters/animations/silhouette_09_cinematic/source/silhouette_09_cinematic.glb",
+    "geometry_sha256": "3a544ce47c9dc425fa6abf16cf69ea1bf62f7b62d6254e1e44dee0ae0563ffb6",
+    "style_version": "1.0.0",
+    "glb_sha256": "b11af3927ba1edcebcf3be32981e25673a7b3c36ae3830017e2a6d93df17bb7e",
+    "recipe_sha256": "d5ecd5331753bec3f6e41a95041a9d935dc0fb0ac7e9be709803a642331d5e28",
+    "style_sha256": "64211812d6952e924135735b15a2779d03c370bf83d39204f5031b39656d7ba7",
+    "exporter_sha256": "cf1864149aeae475d0902e2823dd0a7038110e70037ec61425a2c4ce058b88aa"
+  },
+  "anchors": {
+    "ankle_R": [
+      -0.1654,
+      0.143,
+      -0.0092
+    ],
+    "wrist_R": [
+      -0.5268,
+      0.8576,
+      0.0213
+    ],
+    "shoulder_R": [
+      -0.171,
+      1.2384,
+      -0.0083
+    ],
+    "elbow_R": [
+      -0.475,
+      0.9482,
+      0.0129
+    ],
+    "ankle_L": [
+      0.1654,
+      0.143,
+      -0.0092
+    ],
+    "wrist_L": [
+      0.5268,
+      0.8576,
+      0.0213
+    ],
+    "shoulder_L": [
+      0.171,
+      1.2384,
+      -0.0083
+    ],
+    "elbow_L": [
+      0.475,
+      0.9482,
+      0.0129
+    ],
+    "neck": [
+      0.0,
+      1.3862,
+      -0.0092
+    ],
+    "pelvis": [
+      0.0,
+      0.7208,
+      -0.0092
+    ],
+    "head": [
+      0.0,
+      1.5248,
+      -0.0092
+    ]
+  },
+  "parts": {
+    "separator": " | ",
+    "sides": [
+      "L",
+      "R"
+    ],
+    "head": [
+      "Head",
+      "Face",
+      "Eye",
+      "Ear",
+      "Mouth",
+      "Beard",
+      "Hair",
+      "Glasses",
+      "Neck",
+      "Cap",
+      "Hat",
+      "Headset"
+    ],
+    "arm": [
+      "Arm",
+      "Hand",
+      "Watch",
+      "Tattoo"
+    ],
+    "leg": [
+      "Shoe",
+      "Sock",
+      "Leg"
+    ],
+    "armWords": [
+      "sleeve"
+    ],
+    "legWords": [
+      "leg",
+      "cuff"
+    ],
+    "legCategories": [
+      "Pants",
+      "Jeans"
+    ],
+    "defaultSides": {
+      "Watch": "L"
+    }
+  },
+  "rig": {
+    "version": 3,
+    "skeleton": "lab-humanoid-v1-prototype",
+    "rootBone": "root",
+    "clips": {
+      "idle": {
+        "clip": "idle",
+        "loop": true,
+        "duration": 1
+      },
+      "reachBoth": {
+        "clip": "reachBoth",
+        "loop": false,
+        "duration": 3
+      }
+    }
+  }
+}

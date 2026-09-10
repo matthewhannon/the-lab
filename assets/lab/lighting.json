@@ -1,0 +1,357 @@
+{
+  "source": "lab_replica_v7_ceiling.blend",
+  "ceilingLights": [
+    {
+      "name": "Entrance aisle illumination",
+      "position": [
+        18.64012908935547,
+        2.3,
+        -2.307443141937256
+      ],
+      "intensity": 23,
+      "addFixture": true,
+      "rotationY": 1.57079632679
+    },
+    {
+      "name": "Entrance aisle illumination.001",
+      "position": [
+        18.68025779724121,
+        2.3,
+        -7.243365287780762
+      ],
+      "intensity": 23,
+      "addFixture": true,
+      "rotationY": 1.57079632679
+    },
+    {
+      "name": "Entrance aisle illumination.002",
+      "position": [
+        18.68025779724121,
+        2.3,
+        -13.518875122070312
+      ],
+      "intensity": 23,
+      "addFixture": true,
+      "rotationY": 1.57079632679
+    },
+    {
+      "name": "MR1 small meeting room illumination",
+      "position": [
+        20.789400100708008,
+        2.3,
+        -5.256957471370697
+      ],
+      "intensity": 12,
+      "addFixture": false,
+      "rotationY": 0
+    },
+    {
+      "name": "Soft ceiling illumination",
+      "position": [
+        5.096439838409424,
+        2.3,
+        -17.358896255493164
+      ],
+      "intensity": 32,
+      "addFixture": false,
+      "rotationY": 0
+    },
+    {
+      "name": "Soft ceiling illumination.001",
+      "position": [
+        13.022006034851074,
+        2.3,
+        -17.358896255493164
+      ],
+      "intensity": 32,
+      "addFixture": false,
+      "rotationY": 0
+    },
+    {
+      "name": "Soft ceiling illumination.002",
+      "position": [
+        6.781876564025879,
+        2.3,
+        -13.398487091064453
+      ],
+      "intensity": 32,
+      "addFixture": false,
+      "rotationY": 0
+    },
+    {
+      "name": "Soft ceiling illumination.003",
+      "position": [
+        13.824594497680664,
+        2.3,
+        -13.398487091064453
+      ],
+      "intensity": 32,
+      "addFixture": false,
+      "rotationY": 0
+    },
+    {
+      "name": "Soft ceiling illumination.004",
+      "position": [
+        13.583817481994629,
+        2.3,
+        -9.438077926635742
+      ],
+      "intensity": 32,
+      "addFixture": false,
+      "rotationY": 0
+    },
+    {
+      "name": "Soft ceiling illumination.005",
+      "position": [
+        14.80776596069336,
+        2.3,
+        -3.912621021270752
+      ],
+      "intensity": 32,
+      "addFixture": false,
+      "rotationY": 0
+    },
+    {
+      "name": "Soft ceiling illumination.006",
+      "position": [
+        2.568284511566162,
+        2.3,
+        -7.38381814956665
+      ],
+      "intensity": 32,
+      "addFixture": true,
+      "rotationY": 0
+    },
+    {
+      "name": "Soft ceiling illumination.007",
+      "position": [
+        7.744983196258545,
+        2.3,
+        -7.38381814956665
+      ],
+      "intensity": 32,
+      "addFixture": true,
+      "rotationY": 0
+    },
+    {
+      "name": "Hall illumination 1",
+      "position": [
+        19.0,
+        2.68,
+        1.5
+      ],
+      "intensity": 23,
+      "addFixture": false,
+      "rotationY": 1.57079632679,
+      "castShadow": false
+    },
+    {
+      "name": "Hall illumination 2",
+      "position": [
+        19.0,
+        2.68,
+        4.1
+      ],
+      "intensity": 23,
+      "addFixture": false,
+      "rotationY": 1.57079632679,
+      "castShadow": false
+    },
+    {
+      "name": "Hall illumination 3",
+      "position": [
+        22.0,
+        2.68,
+        1.8
+      ],
+      "intensity": 23,
+      "addFixture": false,
+      "rotationY": 1.57079632679,
+      "castShadow": false
+    },
+    {
+      "name": "Hall illumination 4",
+      "position": [
+        22.6,
+        2.68,
+        4.6
+      ],
+      "intensity": 23,
+      "addFixture": false,
+      "rotationY": 1.57079632679,
+      "castShadow": false
+    }
+  ],
+  "sourceFixtures": [
+    "Inset luminous diffuser",
+    "Inset luminous diffuser.001",
+    "Inset luminous diffuser.002",
+    "Inset luminous diffuser.003",
+    "Inset luminous diffuser.004",
+    "Inset luminous diffuser.005",
+    "Inset luminous diffuser.006",
+    "Inset luminous diffuser.007",
+    "Inset luminous diffuser.008",
+    "Inset luminous diffuser.009",
+    "Inset luminous diffuser.010",
+    "Inset luminous diffuser.011",
+    "Inset luminous diffuser.012",
+    "Inset luminous diffuser.013",
+    "Inset luminous diffuser.014",
+    "Inset luminous diffuser.015",
+    "Inset luminous diffuser.016",
+    "Inset luminous diffuser.017",
+    "Inset luminous diffuser.018",
+    "Inset luminous diffuser.019",
+    "Inset luminous diffuser.020",
+    "Inset luminous diffuser.021",
+    "Inset luminous diffuser.022",
+    "Inset luminous diffuser.023",
+    "Inset luminous diffuser.024",
+    "Inset luminous diffuser.025",
+    "Inset luminous diffuser.026",
+    "Inset luminous diffuser.027",
+    "Inset luminous diffuser.028",
+    "Inset luminous diffuser.029",
+    "Inset luminous diffuser.030",
+    "Inset luminous diffuser.031",
+    "Inset luminous diffuser.032",
+    "Inset luminous diffuser.033",
+    "MR1 ceiling light body",
+    "MR1 light diffuser",
+    "Suspended dark linear light",
+    "Suspended dark linear light.001",
+    "Suspended dark linear light.002",
+    "Suspended dark linear light.003"
+  ],
+  "windows": [
+    {
+      "name": "North windows above 01 and 02",
+      "position": [
+        2.64,
+        1.9267999999999998,
+        -19.1
+      ],
+      "target": [
+        2.64,
+        0.9467999999999999,
+        -15.5
+      ],
+      "width": 5.15,
+      "height": 0.9
+    },
+    {
+      "name": "North windows above 05 to 08",
+      "position": [
+        14.94,
+        1.9267999999999998,
+        -19.1
+      ],
+      "target": [
+        14.94,
+        0.9467999999999999,
+        -15.5
+      ],
+      "width": 9.9,
+      "height": 0.9
+    },
+    {
+      "name": "West clock window",
+      "position": [
+        0.07,
+        2.12,
+        -13.71
+      ],
+      "target": [
+        4,
+        1.2,
+        -13.71
+      ],
+      "width": 2.6,
+      "height": 0.9
+    },
+    {
+      "name": "Meeting room west glazing",
+      "position": [
+        0.07,
+        1.4,
+        -7.6
+      ],
+      "target": [
+        3,
+        1,
+        -7.6
+      ],
+      "width": 4.4,
+      "height": 2.55
+    },
+    {
+      "name": "Meeting room south glazing",
+      "position": [
+        2.64,
+        1.4,
+        -5.2
+      ],
+      "target": [
+        2.64,
+        1,
+        -8
+      ],
+      "width": 5.1,
+      "height": 2.55
+    }
+  ],
+  "localLights": [
+    {
+      "angle": 0.85,
+      "color": "#ffd29b",
+      "distance": 2.5,
+      "intensity": 8,
+      "name": "Basement bed lamp",
+      "position": [
+        1.5799999237060547,
+        -1.7200000286102295,
+        -13.25
+      ],
+      "target": [
+        1.559999942779541,
+        -2.700000047683716,
+        -12.800000190734863
+      ]
+    },
+    {
+      "angle": 0.9,
+      "color": "#ffd29b",
+      "distance": 2.7,
+      "intensity": 9,
+      "name": "Basement desk lamp",
+      "position": [
+        0.6200000047683716,
+        -1.649999976158142,
+        -11.180000305175781
+      ],
+      "target": [
+        -0.10000000149011612,
+        -2.549999952316284,
+        -11.550000190734863
+      ]
+    },
+    {
+      "angle": 0.85,
+      "color": "#c0d5df",
+      "distance": 4.3,
+      "intensity": 12,
+      "name": "Basement stair bulkhead",
+      "position": [
+        3.35,
+        -0.9,
+        -13.48
+      ],
+      "target": [
+        5.4,
+        -1.1,
+        -12.7
+      ]
+    }
+  ]
+}

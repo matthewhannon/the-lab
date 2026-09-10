@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lab - Credits and licenses</title>
+<style>
+:root { color-scheme: light; font-family: system-ui, sans-serif; color: #20363b; background: #f4f7f6; }
+body { margin: 0; line-height: 1.6; }
+main { max-width: 48rem; margin: 0 auto; padding: 2rem 1.25rem 4rem; }
+h1, h2, h3 { line-height: 1.25; }
+h1 { font-size: clamp(1.8rem, 5vw, 2.5rem); }
+h2 { margin-top: 2.5rem; }
+h3 { margin-bottom: .4rem; }
+a { color: #075e52; text-underline-offset: .15em; }
+a:focus-visible { outline: 3px solid #b05700; outline-offset: 4px; }
+li { margin-block: 1rem; }
+.notice { margin-top: .25rem; }
+nav { display: flex; flex-wrap: wrap; gap: .6rem 1.5rem; }
+small { font-size: .9rem; }
+</style>
+</head>
+<body>
+<main>
+<header>
+<nav aria-label="Credits navigation"><a href="../">Open the lab</a><a href="#software">Software notices</a><a href="#audio">Procedural audio</a></nav>
+<h1>Credits and licenses</h1>
+<p>The lab uses the software below. Each link provides its complete installed copyright and license notice.</p>
+</header>
+<section aria-labelledby="software">
+<h2 id="software">Runtime software</h2>
+<ul>
+<li><h3>Three.js 0.185.1</h3><p class="notice">Rendering, scene loading and animation. MIT License.<br>Copyright &copy; 2010-2026 three.js authors.<br><a href="./licenses/three-0.185.1-LICENSE.txt">Read the Three.js license</a></p></li>
+<li><h3>Rapier 3D 0.20.0</h3><p class="notice">Physics, using the plain JavaScript/WASM package. Apache License 2.0.<br>Copyright 2020 Dimforge EURL.<br><a href="./licenses/rapier3d-0.20.0-LICENSE.txt">Read the Rapier license</a></p></li>
+<li><h3>Zod 4.5.4</h3><p class="notice">Runtime data validation. MIT License.<br>Copyright (c) 2025 Colin McDonnell.<br><a href="./licenses/zod-4.5.4-LICENSE.txt">Read the Zod license</a></p></li>
+</ul>
+<h2>Browser build helpers</h2>
+<p>These build tools also supply small helpers that run in the browser.</p>
+<ul>
+<li><h3>Vite 8.2.2</h3><p class="notice">Module loading, preload and WebAssembly loading helpers. Vite core uses the MIT License.<br>Copyright (c) 2019-present, VoidZero Inc. and Vite contributors.<br><a href="./licenses/vite-8.2.2-LICENSE.txt">Read the Vite license and bundled notices</a></p><small>The complete installed notice also lists Vite's build dependencies; this does not mean every listed dependency runs in the lab.</small></li>
+<li><h3>Rolldown 1.2.7</h3><p class="notice">Generated JavaScript export helpers. MIT License.<br>Copyright (c) 2024-present VoidZero Inc. &amp; Contributors.<br><a href="./licenses/rolldown-1.2.7-LICENSE.txt">Read the Rolldown license</a> and <a href="./licenses/rolldown-1.2.7-THIRD-PARTY-LICENSE.txt">its third-party notices</a>.</p></li>
+</ul>
+</section>
+<section aria-labelledby="audio">
+<h2 id="audio">Procedural audio</h2>
+<p>The four cues are original deterministic synthesis created for this repository. They use no external recordings, samples, music or speech. Recipe version 2 generates mono buffers at runtime.</p>
+<ul>
+<li><strong>Room air:</strong> seeded noise through a low-pass filter; a two-second loop.</li>
+<li><strong>Door motion:</strong> filtered noise with 16 Hz amplitude modulation and a quiet 110 Hz tone; a one-second loop.</li>
+<li><strong>Furniture roll:</strong> filtered noise with 16 Hz amplitude modulation and a quiet 75 Hz tone; a one-second loop.</li>
+<li><strong>Screen switch:</strong> a decaying rising chirp starting at 660 Hz; a 0.12-second cue.</li>
+</ul>
+</section>
+</main>
+</body>
+</html>
