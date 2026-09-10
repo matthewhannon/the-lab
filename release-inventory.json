@@ -126,19 +126,19 @@
       "sha256": "706136d94e5166bcf0718c9436e6980d2e27881265babcd231dd937c535afad1"
     },
     {
-      "path": "assets/index-Ca-VjU6I.js",
+      "path": "assets/index-BN50THMq.js",
       "bytes": 2378,
-      "sha256": "a61121de394e627915eb4a71ea5b0b4979cf68c5d6f5d48f55ef0a40c514af8a"
+      "sha256": "c630af5f8fe902ee9d08a2bbcc730ead4325752f3f8fc785222848c873a7bfd2"
     },
     {
       "path": "assets/lab/lab.glb",
-      "bytes": 14354448,
-      "sha256": "3f583187421d37cd760e08d0114f30fe017f583cddbe858dfa05ef21c4bf3d4f"
+      "bytes": 16546236,
+      "sha256": "ee876243348ba7e4346677abe1af1a6cfb1993712d9e6d91d38e72c654135578"
     },
     {
       "path": "assets/lab/lab.manifest.json",
       "bytes": 262634,
-      "sha256": "be97356bdf440afe168c863886ddbb4f7e9845551f44b2d48c1465439e788883"
+      "sha256": "8ee897e0640e5c8ed38c1158a31ab9f25ebebe7541f8afa2c674d8a940fdd9e1"
     },
     {
       "path": "assets/lab/lighting.json",
@@ -151,9 +151,9 @@
       "sha256": "0c906f0977a6c877d92804a972b579cfbdafd77d38e288ebb57b71e04d8ccfbd"
     },
     {
-      "path": "assets/playerMain-BHAOMz4x.js",
+      "path": "assets/playerMain-C2bsCqwy.js",
       "bytes": 406709,
-      "sha256": "13c66e92bc889149f9affcffb2b24499fd0ad5ac444fe98db3feccc7fe424fed"
+      "sha256": "9999bea1e60be414156811867472326d86ffb166608dd6156bb6861136d9dc7a"
     },
     {
       "path": "assets/playerMain-C6yo_QF2.css",
@@ -178,7 +178,7 @@
     {
       "path": "build-identity.json",
       "bytes": 9477,
-      "sha256": "f7c6416bf567584de2297d7e485d6878bd8b3d113abe53a13029290084f0e347"
+      "sha256": "a97b4258aa7b2aaee895180b2ace456a3b7351a46f1c82bcbe763c7adb7f05ba"
     },
     {
       "path": "credits/index.html",
@@ -218,7 +218,7 @@
     {
       "path": "index.html",
       "bytes": 660,
-      "sha256": "38b1589a08084bf00f133340cbefc8168d03789207a2f5eb90448f36c808bfb9"
+      "sha256": "731bc8c7bec2e7960bfd939c7a852b402fc9879871caa432af0cd029fcba16b5"
     }
   ]
 }

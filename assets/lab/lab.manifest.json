@@ -2,7 +2,7 @@
   "version": 1,
   "source": {
     "blend": "assets/lab/game_scene/lab_game_scene.blend",
-    "sha256": "27a57ca2d1e01709dfa7303523e2bd46c616608650af0263183bfa75f9981f40"
+    "sha256": "4b87ce18010b5872c2f425ab37dcfb7c5513248360b9e3c272367122f1b85993"
   },
   "units": "m",
   "up": "Y",
