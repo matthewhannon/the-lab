@@ -1,16 +1,16 @@
 {
   "version": 1,
   "kind": "player",
-  "revision": "04429f33-clean",
-  "capturedAt": "2026-09-10T21:13:03.721Z",
+  "revision": "3b05e6cf-clean",
+  "capturedAt": "2026-09-10T21:13:55.058Z",
   "moduleGraph": [
     {
-      "file": "assets/index-b5AAn03V.js",
+      "file": "assets/index-_EPWOcuX.js",
       "imports": [
         "assets/startup-CxuXEMay.js"
       ],
       "dynamicImports": [
-        "assets/playerMain-bHiCqv0Y.js"
+        "assets/playerMain-6lsYvS4q.js"
       ],
       "modules": [
         "\u0000vite/modulepreload-polyfill.js",
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "file": "assets/playerMain-bHiCqv0Y.js",
+      "file": "assets/playerMain-6lsYvS4q.js",
       "imports": [
         "assets/physics-B3aj64zG.js",
         "assets/three-BID7b9HD.js",
